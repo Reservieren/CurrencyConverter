@@ -1,2 +1,2 @@
 # CurrencyConverter
-a basic USD/BRL converter
+A simple USD to BRL converter I built for fun.
